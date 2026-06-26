@@ -1,16 +1,35 @@
-# React + Vite
+# 💻 Personal Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My professional developer portfolio website showcasing my projects, skills, education, and experience. Built with **React** and **Vite** for maximum performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- **Modern Clean UI:** A dark-themed, premium design featuring custom gradients and glassmorphism.
+- **Responsive Layout:** Tailored to display beautifully across smartphones, tablets, and wide monitors.
+- **Interactive Project Cards:** Hover-animated displays linking directly to source repositories and live demos.
+- **Skills Showcase:** Categories for Backend (Java/Spring), Frontend (React/Flutter), and Tools (Git).
 
-## React Compiler
+## 🛠️ Tech Stack
+- **Framework:** React.js (Component-based architecture)
+- **Build Tool:** Vite (High-speed HMR)
+- **Styling:** Custom CSS (Modular layout styling)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 How to Run
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/saravana-GT/portfolio.git
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Run in development mode:**
+   ```bash
+   npm run dev
+   ```
+   Open your browser and navigate to the address shown in your terminal (usually `http://localhost:5173`).
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
